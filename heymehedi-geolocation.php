@@ -24,14 +24,14 @@ class HeyMehedi_Geolocation {
 	 *
 	 * @var string
 	 */
-	public static $project_name = 'dadvertizing';
+	public static $project_name = 'your_project_name';
 
 	/**
 	 * User Agent
 	 *
 	 * @var string
 	 */
-	public static $user_agent = 'Dadvertizing/1.0';
+	public static $user_agent = 'SomeThing/1.0';
 
 	/**
 	 * API endpoints for looking up user IP address.
